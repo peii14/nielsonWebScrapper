@@ -17,3 +17,22 @@
 1643378580631	geckodriver	INFO	Listening on 127.0.0.1:52021
 1643378594026	geckodriver	INFO	Listening on 127.0.0.1:52030
 1643378597153	geckodriver	INFO	Listening on 127.0.0.1:52039
+1643452916439	geckodriver	INFO	Listening on 127.0.0.1:49982
+1643453006210	geckodriver	INFO	Listening on 127.0.0.1:50154
+1643469294552	geckodriver	INFO	Listening on 127.0.0.1:53120
+1643469346211	geckodriver	INFO	Listening on 127.0.0.1:53145
+1643469355104	geckodriver	INFO	Listening on 127.0.0.1:53156
+1643469488185	geckodriver	INFO	Listening on 127.0.0.1:53224
+1643469492498	geckodriver	INFO	Listening on 127.0.0.1:53236
+1643469803691	geckodriver	INFO	Listening on 127.0.0.1:53381
+1643469804212	mozrunner::runner	INFO	Running command: "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53382" "-foreground" "-no-remote" "-profile" "/var/folders/db/q45d2_5d0c52zkvrdw9tp0xm0000gn/T/rust_mozprofileUP9dYc"
+1643469804479	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/db/q45d2_5d0c52zkvrdw9tp0xm0000gn/T/rust_mozprofileUP9dYc/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53382/devtools/browser/a52df535-c711-4307-b091-e4b7528304ff
+1643469805463	Marionette	INFO	Listening on port 53389
+1643469805587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
